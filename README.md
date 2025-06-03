@@ -1,6 +1,6 @@
 # Retail Pharmacy Inventory Optimization
 
-Starting my first project, still very beginner level. This project aims to simulate and optimize the inventory levels of drugs in a retail pharmacy using demand forecasting and optimization techniques.
+Starting my first project, still very beginner level. trying to learn while doing. This project aims to simulate and optimize the inventory levels of drugs in a retail pharmacy using demand forecasting and optimization techniques.
 
 ## 🚀 Objectives
 - Generate synthetic weekly sales data for 100 SKUs
