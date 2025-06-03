@@ -1,1 +1,7 @@
-
+# Python + Colab + data
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+data/
+models/
+.env
