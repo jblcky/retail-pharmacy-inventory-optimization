@@ -20,3 +20,5 @@ Starting my first project, still very beginner level. trying to learn while doin
 Install dependencies with:
 ```bash
 pip install -r requirements.txt
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][(https://colab.research.google.com/drive/1WlHmEBdFBt6qqI-4PdowQFIUHXq517Cw#scrollTo=1k4rGGVEUXVb)]
